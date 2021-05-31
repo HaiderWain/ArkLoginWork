@@ -1,0 +1,16 @@
+G:\Work Stuff\Ark Login Work\bin\Debug\net5.0\Ark Login Work.exe
+G:\Work Stuff\Ark Login Work\bin\Debug\net5.0\Ark Login Work.deps.json
+G:\Work Stuff\Ark Login Work\bin\Debug\net5.0\Ark Login Work.runtimeconfig.json
+G:\Work Stuff\Ark Login Work\bin\Debug\net5.0\Ark Login Work.runtimeconfig.dev.json
+G:\Work Stuff\Ark Login Work\bin\Debug\net5.0\Ark Login Work.dll
+G:\Work Stuff\Ark Login Work\bin\Debug\net5.0\ref\Ark Login Work.dll
+G:\Work Stuff\Ark Login Work\bin\Debug\net5.0\Ark Login Work.pdb
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.csproj.AssemblyReference.cache
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.GeneratedMSBuildEditorConfig.editorconfig
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.AssemblyInfoInputs.cache
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.AssemblyInfo.cs
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.csproj.CoreCompileInputs.cache
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.dll
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\ref\Ark Login Work.dll
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.pdb
+G:\Work Stuff\Ark Login Work\obj\Debug\net5.0\Ark Login Work.genruntimeconfig.cache
